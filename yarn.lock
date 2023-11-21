@@ -4710,10 +4710,10 @@
     proper-lockfile "^4.1.1"
     solidity-ast "^0.4.15"
 
-"@openzeppelin/wizard@0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@openzeppelin/wizard/-/wizard-0.2.0.tgz#679e91ea10ae49b742920e72daca1cabf329739d"
-  integrity sha512-UDJF4fE+TuezLbXAL7aEQ9kIsqNf/FeBY62HEoPR7X//Ml6wR4Sy8DKPSyTqfxnQzd7NXIQ/FAAMuECv3LEy9A==
+"@openzeppelin/wizard@0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/wizard/-/wizard-0.4.1.tgz#c055fc05edf5a78a41c8df9d19a77132db680aa1"
+  integrity sha512-ylpncxGx9jA7vXrPCkHf9u/lKWcuGdhdu+uyBUb6pPN4zCYAzfRvW/ToPgjYUWn0c8+MPdO+/kaRxUu3Lgc7Zw==
   dependencies:
     array.prototype.flatmap "^1.2.4"
 
