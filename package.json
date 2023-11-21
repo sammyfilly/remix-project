@@ -131,7 +131,7 @@
     "@openzeppelin/upgrades-core": "^1.22.0",
     "@openzeppelin/wizard": "0.2.0",
     "@remixproject/engine": "0.3.33",
-    "@remixproject/engine-web": "0.3.33",
+    "@remixproject/engine-web": "0.3.208",
     "@remixproject/plugin": "0.3.33",
     "@remixproject/plugin-api": "0.3.33",
     "@remixproject/plugin-utils": "0.3.33",
