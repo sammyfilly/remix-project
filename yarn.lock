@@ -5802,10 +5802,10 @@
   resolved "https://registry.yarnpkg.com/@types/ms/-/ms-0.7.31.tgz#31b7ca6407128a3d2bbc27fe2d21b345397f6197"
   integrity sha512-iiUgKzV9AuaEkZqkOLDIvlQiL6ltuZd9tGcW3gwpnX8JbuiuhFlEGmmFXEXkN50Cvq7Os88IY2v0dkDqXYWVgA==
 
-"@types/nightwatch@^2.3.1":
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/@types/nightwatch/-/nightwatch-2.3.1.tgz#36cb1f2408f910c06e3de5b0365f6f6a606b1c69"
-  integrity sha512-K0Cr9e2YPC2g5aWnkcyo7w9kvhfNrMiKOCigJyuo3usl3kass1h3ktqHUwwUGupmTm02luzxf1aqNvg0Qfr/sw==
+"@types/nightwatch@^2.3.30":
+  version "2.3.30"
+  resolved "https://registry.yarnpkg.com/@types/nightwatch/-/nightwatch-2.3.30.tgz#bb342bf21bc6cd0a7134681523ba42eeefe73c4d"
+  integrity sha512-TiVGKR9mORwx0nN3ylonXp2IobpQoZxwV63IjABYkxsEpNauHL8GU9kmceEThjqDUigKaeh6aPOqepwC4bwCfA==
   dependencies:
     "@types/chai" "*"
     "@types/selenium-webdriver" "*"
