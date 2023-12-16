@@ -6789,10 +6789,10 @@
     buffer "6.0.3"
     valtio "1.10.3"
 
-"@web3modal/ethereum@^2.2.2":
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/@web3modal/ethereum/-/ethereum-2.2.2.tgz#aad8957deb4db4a3224b9e7bac538f1995bb5bcf"
-  integrity sha512-ksyGQsyK4pMU2Z83zZNo7HKPmjWkhcfK6K4ip+w3R/Rstcpqy/kHW/DUClXY76itu323EdesV6gBzASZ3CwBdQ==
+"@web3modal/ethereum@^2.7.1":
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/@web3modal/ethereum/-/ethereum-2.7.1.tgz#464dbc1d00d075c16961b77e9a353b1966538653"
+  integrity sha512-1x3qhYh9qgtvw1MDQD4VeDf2ZOsVANKRPtUty4lF+N4L8xnAIwvNKUAMA4j6T5xSsjqUfq5Tdy5mYsNxLmsWMA==
 
 "@web3modal/react@^2.2.2":
   version "2.2.2"
@@ -13074,14 +13074,6 @@ expand-brackets@^2.1.4:
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/expand-brackets/-/expand-brackets-2.1.4.tgz#b77735e315ce30f6b6eff0f83b04151a22449622"
   integrity sha1-t3c14xXOMPa27/D4OwQVGiJEliI=
-  dependencies:
-    debug "^2.3.3"
-    define-property "^0.2.5"
-    extend-shallow "^2.0.1"
-    posix-character-classes "^0.1.0"
-    regex-not "^1.0.0"
-    snapdragon "^0.8.1"
-    to-regex "^3.0.1"
 
 expand-range@^1.8.1:
   version "1.8.2"
