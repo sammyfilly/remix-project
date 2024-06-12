@@ -10,7 +10,7 @@
     "@openzeppelin/contracts-upgradeable": "^4.8.3",
     "@openzeppelin/upgrades-core": "^1.22.0",
     "@openzeppelin/wizard": "^0.1.1",
-    "@remix-project/remixd": "../../dist/libs/remixd",
+    "@remix-project/remixd": "0.6.32",
     "deep-equal": "^1.0.1",
     "ganache-cli": "^6.8.1",
     "selenium-standalone": "^8.2.3",
